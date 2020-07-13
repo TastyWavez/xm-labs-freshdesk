@@ -49,7 +49,7 @@ Delight your customers with rapid response times from your support team no matte
 |                                 |                                                                                   |
 
 
-### Configure Freshdesk
+## Configure Freshdesk
 
 # Troubleshooting
 *
