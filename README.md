@@ -4,3 +4,51 @@ Freshdesk is a help desk system and customer service solution that simplifies cu
 # Pre-Requisites
 * Freshdesk account: Free trials available, request one here: https://freshdesk.com
 * xMatters account: Free tiers available for small teams, free forever! Request an xMatters free account here: http://xmatters.com/free-forever
+
+
+# How it works
+
+
+# Installation 
+
+## xMatters set up
+
+### Create a REST integration user account
+
+<!--- <kbd>
+  <img src="media/xMRESTUser.png">
+</kbd> --->
+
+
+### Import the Workflow
+*
+
+### Assign permissions to the Workflow and Form  
+*
+*
+*
+*
+
+
+
+### Configure xMatters Flow for Inbound REST
+*
+*
+*
+*
+
+### Configure Endpoints 
+*
+*
+*
+   
+|                                 |                                                                     |
+|:------------------------------- |:--------------------------------------------------------------------------------- |
+|                                 |                                                                                   |
+
+
+### Configure Freshdesk
+
+# Troubleshooting
+*
+*
