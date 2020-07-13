@@ -5,6 +5,7 @@ Freshdesk is a help desk system and customer service solution that simplifies cu
 * Freshdesk account: Free trials available, request one here: https://freshdesk.com
 * xMatters account: Free tiers available for small teams, free forever! Request an xMatters free account here: http://xmatters.com/free-forever
 
+# Files
 
 # How it works
 
