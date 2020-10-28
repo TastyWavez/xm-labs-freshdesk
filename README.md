@@ -17,8 +17,8 @@ Delight your customers with rapid response times from your support team no matte
 
 ### Create a REST integration user account
 
-<<kbd>
-  <img src="media/xMRESTUser.png">
+<kbd>
+  <img src="media/Screen Shot 2020-10-28 at 1.57.55 PM.png">
 </kbd> 
 
 
