@@ -6,7 +6,7 @@ Freshdesk is a help desk system and customer service solution that simplifies cu
 * xMatters account: Free tiers available for small teams, free forever! Request an xMatters free account here: http://xmatters.com/free-forever
 
 # Files
-* <a href="https://github.com/TastyWavez/xm-labs-freshdesk/FreshDesk.zip">FreshDesk.zip</a> The workflow containing the flow canvases and event forms.
+* <a href="https://github.com/TastyWavez/xm-labs-freshdesk/blob/master/Freshdesk.zip">Freshdesk.zip</a> The workflow containing the flow canvases and event forms.
 
 
 # How it works
