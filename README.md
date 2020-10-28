@@ -38,7 +38,7 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 8. 
 9. 
 
-### Create the FreshDesk Agent ID Custom Field in xMatters ###
+### Create the FreshDesk Agent ID Custom Field in xMatters
                         |                                                                                   |
 ## Configure Freshdesk
 
