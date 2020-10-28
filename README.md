@@ -42,7 +42,7 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
                         |                                                                                   |
 ## Configure Freshdesk
 <kbd>
-  <img src="media/Screen Shot 2020-10-28 at 1.57.55 PM.png">
+  <img src="media/Ticket_Created_FD/Screen Shot 2020-07-13 at 2.34.35 PM.png">
 </kbd> 
 # Troubleshooting
 *
