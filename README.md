@@ -45,7 +45,7 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 ### Set up the Freshdesk endpoint
 
 <kbd>
-  <img src="media/Ticket_Created_FD/Screen Shot 2020-10-21 at 2.28.53 PM.png">
+  <img src="media/Screen Shot 2020-10-21 at 2.28.53 PM.png">
 </kbd> 
 
 
