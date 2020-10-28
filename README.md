@@ -17,9 +17,9 @@ Delight your customers with rapid response times from your support team no matte
 
 ### Create a REST integration user account
 
-<!--- <kbd>
+<<kbd>
   <img src="media/xMRESTUser.png">
-</kbd> --->
+</kbd> 
 
 
 ### Import the Workflow
