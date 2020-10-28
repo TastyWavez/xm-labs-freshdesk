@@ -42,6 +42,13 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 8. 
 9. 
 
+### Set up the Freshdesk endpoint
+
+<kbd>
+  <img src="media/Ticket_Created_FD/Screen Shot 2020-10-21 at 2.28.53 PM.png">
+</kbd> 
+
+
 ### Create the FreshDesk Agent ID Custom Field in xMatters
 
 ## Configure Freshdesk
