@@ -30,8 +30,9 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 ### Import the Workflow
 1. Navigate to the Workflows page. Click the Import button and import the <a href="https://github.com/TastyWavez/xm-labs-freshdesk/blob/master/Freshdesk.zip">Freshdesk.zip</a> file.
 2. Open the workflow and navigate to the **Flows** tab.
-3.
-4.
+3. Click on the **Ticket Alerts** canvas and then double-click the **Ticket Alerts-FreshDesk-Inbound** HTTP Trigger.
+4. Copy the URL and save for later.
+5. On the **Forms** tab, click the **Web Service** dropdown next to **Ticket Alerts** and select **Sender Permissions**. Add the Rest Integration user created in the previous section.
 
 ### Assign permissions to the Workflow and Form  
 *
