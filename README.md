@@ -29,7 +29,7 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 
 ### Import the Workflow
 1. Navigate to the Workflows page. Click the Import button and import the <a href="https://github.com/TastyWavez/xm-labs-freshdesk/blob/master/Freshdesk.zip">Freshdesk.zip</a> file.
-2. Open the workflow and navigate to the _Flows_ tab.
+2. Open the workflow and navigate to the **Flows** tab.
 3.
 4.
 
