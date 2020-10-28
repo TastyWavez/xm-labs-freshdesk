@@ -39,20 +39,7 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 9. 
 
 ### Create the FreshDesk Agent ID Custom Field in xMatters ###
-
-
-### Configure xMatters Flow for Inbound REST
-*
-*
-*
-*
-
-### Configure Endpoints 
-*
-*
-*                              |                                                                                   |
-
-
+                        |                                                                                   |
 ## Configure Freshdesk
 
 # Troubleshooting
