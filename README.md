@@ -33,13 +33,12 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 3. Click on the **Ticket Alerts** canvas and then double-click the **Ticket Alerts-FreshDesk-Inbound** HTTP Trigger.
 4. Copy the URL and save for later.
 5. On the **Forms** tab, click the **Web Service** dropdown next to **Ticket Alerts** and select **Sender Permissions**. Add the Rest Integration user created in the previous section.
+6. 
+7. 
+8. 
+9. 
 
-### Assign permissions to the Workflow and Form  
-*
-*
-*
-*
-
+### Create the FreshDesk Agent ID Custom Field in xMatters ###
 
 
 ### Configure xMatters Flow for Inbound REST
@@ -51,11 +50,7 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 ### Configure Endpoints 
 *
 *
-*
-   
-|                                 |                                                                     |
-|:------------------------------- |:--------------------------------------------------------------------------------- |
-|                                 |                                                                                   |
+*                              |                                                                                   |
 
 
 ## Configure Freshdesk
