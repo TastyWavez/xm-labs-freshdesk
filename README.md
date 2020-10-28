@@ -41,7 +41,9 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 ### Create the FreshDesk Agent ID Custom Field in xMatters
                         |                                                                                   |
 ## Configure Freshdesk
-
+<kbd>
+  <img src="media/Screen Shot 2020-10-28 at 1.57.55 PM.png">
+</kbd> 
 # Troubleshooting
 *
 *
