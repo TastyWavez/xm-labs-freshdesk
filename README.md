@@ -51,7 +51,8 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 </kbd>
 
 <kbd>
-  <img src="media/Ticket_Created_FD/">
+  <img src="media/Ticket_Created_FD/Screen Shot 2020-10-28 at 4.22.33 PM.png">
 </kbd>
+
 # Troubleshooting
 
