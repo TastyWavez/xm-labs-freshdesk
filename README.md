@@ -38,11 +38,9 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 4. Copy the URL and save for later.
 5. On the **Forms** tab, click the **Web Service** dropdown next to **Ticket Alerts** and select **Sender Permissions**. Add the REST Integration user created in the previous section.
 6. Click the gear icon and choose **Editor permissions**. Add the **REST Integration user** user here as well. e.g. **FD Integration** created in the previous section. You can also add additional editor permissions at this time should any developers or admins require access to the Freshdesk workflow.
-7. 
-8. 
-9. 
 
 ### Set up the Freshdesk endpoint
+1. In Freshdesk click on your profile and select **profile settings**, copy your API Key 
 
 <kbd>
   <img src="media/Screen Shot 2020-10-21 at 2.28.53 PM.png">
