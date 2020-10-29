@@ -22,7 +22,7 @@ Freshdesk automations trigger a POST to xMatters Flow Designer when a ticket is 
 
 ## xMatters set up
 
-Log in to xMatters as a Company Supervisor or a Developer - you'll need the persmissions granted by these roles to configure workflow.
+Log in to xMatters as a Company Supervisor or a Developer - you'll need the permissions granted by these roles to configure workflow.
 
 ### Create a REST integration user account
 
