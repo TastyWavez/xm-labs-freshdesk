@@ -41,15 +41,19 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 
 ### Set up the Freshdesk endpoint
 1. In Freshdesk click on your profile and select **profile settings**, copy the API key shown on your profile.
+
 <kbd>
   <img src="media/Screen Shot 2020-10-28 at 5.32.54 PM.png">
 </kbd> 
+
 2. In xMatters open the workflow and navigate to the **Flows** tab.
 3. Click on the **Ticket Alerts** canvas and then select **Components** in the upper righthand corner choosing **Endpoints** from the dropdown. 
 4. Choose the FreshDesk endpoint and provide the base URL as shown below. 
+
 <kbd>
   <img src="media/Screen Shot 2020-10-21 at 2.28.53 PM.png">
-</kbd> 
+</kbd>
+
 5.
 
 ### Create the FreshDesk Agent ID Custom Field in xMatters
