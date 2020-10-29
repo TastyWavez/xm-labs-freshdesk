@@ -40,7 +40,7 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the pers
 6. Click the gear icon and choose **Editor permissions**. Add the **REST Integration user** user here as well. e.g. **FD Integration** created in the previous section. You can also add additional editor permissions at this time should any developers or admins require access to the Freshdesk workflow.
 
 ### Set up the Freshdesk endpoint
-1. In Freshdesk click on your profile and select **profile settings**, copy the API key shown on your profile.
+1. In Freshdesk we recommend creating an agent account that can serve as an integration user.
 
 <kbd>
   <img src="media/Screen Shot 2020-10-28 at 5.32.54 PM.png">
