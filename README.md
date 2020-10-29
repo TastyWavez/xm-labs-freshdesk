@@ -40,19 +40,23 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the perm
 6. Click the gear icon and choose **Editor permissions**. Add the **REST Integration user** user here as well. e.g. **FD Integration** created in the previous section. You can also add additional editor permissions at this time should any developers or admins require access to the Freshdesk workflow.
 
 ### Set up the Freshdesk endpoint
-1. In Freshdesk we recommend creating an agent account that can serve as an integration user. Create an agent account and give them the **Administrator** role. Provide an email address where you can receive the activation email. Once logged in as the integration user you will be able to retrieve the API key from the users prfile by clicking **Profile Settings**. 
+1. In Freshdesk we recommend creating an agent account that can serve as an integration user. Create an agent account and give them the **Administrator** role. Provide an email address where you can receive the activation email. Once logged in as the integration user you will be able to retrieve the API key from the users profile by clicking **Profile Settings**. 
+
 
 <kbd>
   <img src="media/Screen Shot 2020-10-28 at 5.32.54 PM.png">
 </kbd> 
 
+
 2. In xMatters open the workflow and navigate to the **Flows** tab.
 3. Click on the **Ticket Alerts** canvas and then select **Components** in the upper righthand corner choosing **Endpoints** from the dropdown. 
 4. Choose the FreshDesk endpoint and provide the base URL as shown below substituting "company" with your instance name. 
 
+
 <kbd>
   <img src="media/Screen Shot 2020-10-21 at 2.28.53 PM.png">
 </kbd>
+
 
 5. Choose **Basic Auth** as the authentication type and provide the API key from your Freshdesk instance as the username. The password is arbitrary so choose any random string of characters you'd like. 
 
