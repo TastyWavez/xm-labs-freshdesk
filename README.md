@@ -63,12 +63,8 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the perm
 ### Create the FreshDesk Agent ID Custom Field in xMatters
 
 ## Configure Freshdesk
-1.
-2.
-3.
-4.
-5.
-6.
+1. Log in to Freshdesk using the Administrator account and select the **Admin** cog. 
+2. From the admin tab scroll until you see the **Helpdesk Productivity** heading and select **Automations** and create a new automation rule on **Ticket Created** with the following criteria supplying the HTTP trigger URL from the Freshdesk workflow.
 
 <kbd>
   <img src="media/Ticket_Created_FD/Screen Shot 2020-07-13 at 2.34.35 PM.png">
@@ -85,6 +81,9 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the perm
 <kbd>
   <img src="media/Ticket_Created_FD/Screen Shot 2020-10-28 at 4.22.42 PM.png">
 </kbd>
+
+
+3.
 
 # Troubleshooting
 
