@@ -52,12 +52,12 @@ Log in to xMatters as a Company Supervisor or a Developer - you'll need the perm
 3. Click on the **Ticket Alerts** canvas and then select **Components** in the upper righthand corner choosing **Endpoints** from the dropdown. 
 4. Choose the FreshDesk endpoint and provide the base URL as shown below substituting "company" with your instance name. 
 
-
+<br>
 <kbd>
   <img src="media/Screen Shot 2020-10-21 at 2.28.53 PM.png">
 </kbd>
 
-
+<br>
 5. Choose **Basic Auth** as the authentication type and provide the API key from your Freshdesk instance as the username. The password is arbitrary so choose any random string of characters you'd like. 
 
 ### Create the FreshDesk Agent ID Custom Field in xMatters
